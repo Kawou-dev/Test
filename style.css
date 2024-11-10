@@ -5,7 +5,7 @@ body{
     height: 100vh;
 }
 .maDiv{
-    width: 300px;
+    width: 350px;
     height: 200px;
     border: 2px solid black;
     padding: 5px;
@@ -14,4 +14,8 @@ body{
 }
 p{
     font-size: 20px;
+}
+#ceo{
+    color: blue;
+    font-size: 22px;
 }
